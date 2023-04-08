@@ -8,15 +8,29 @@
      <th> Wedesday</th>
      <th> Thursday</th>
      <th> friday</th> </tr>
-<tr> <td>time </td>
-     <td> Monday</td>
-     <td> Tuesday</td>
-     <td> Wedesday</td>
-     <td> Thursday</td>
-     <td> friday</td> </tr>
-<tr> <td>time </td>
-     <td> Monday</td>
-     <td> Tuesday</td>
-     <td> Wedesday</td>
-     <td> Thursday</td>
-     <td> friday</td> </tr>
+<tr> <td>7-8 </td>
+     <td>Eglish</td>
+     <td> Maths</td>
+     <td> Dancing</td>
+     <td> Sinhala</td>
+     <td> Science</td> </tr>
+<tr> <td>8-9</td>
+     <td>Eglish</td>
+     <td> Maths</td>
+     <td> Dancing</td>
+     <td> Sinhala</td>
+     <td> Science</td> </tr>
+<tr> <td>9-10 </td>
+     <td>Eglish</td>
+     <td> Maths</td>
+     <td> Dancing</td>
+     <td> Sinhala</td>
+     <td> Science</td> </tr>
+  <tr> <td>9-10 </td>
+       <td colspan="5">
+<tr> <td>11-12 </td>
+     <td>Eglish</td>
+     <td> Maths</td>
+     <td> Dancing</td>
+     <td> Sinhala</td>
+     <td> Science</td> </tr>
